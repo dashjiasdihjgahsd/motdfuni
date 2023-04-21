@@ -1,1 +1,3 @@
-sigma motd 😈😈
+sigma motd
+
+:insert devil emoji:
